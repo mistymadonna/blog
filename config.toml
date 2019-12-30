@@ -1,0 +1,9 @@
+baseURL = "http://longlivethe90s.com/"
+languageCode = "en-us"
+title = "Mulder, it's me"
+theme = "elephants"
+enableEmoji = "true"
+
+[params]
+    sitename = "Blog"
+    posts = "/:year/:month/:title/"
